@@ -112,3 +112,7 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+## The R Code
+
+The first part of each R script contains actions to read the data file, select data for the two desired dates, and create a timestamp variable with the combined date and time. This part is the same in each script. The second part of each R script contains actions to create the specific plots. This part of the script is designed to create the axes, labels, lines, etc., to form each plot.
